@@ -1,0 +1,26 @@
+
+#gameSection, #scoreSection {
+	background-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#buttonSection {
+
+	/*background-color: yellow;*/
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+/* Fonts */
+h1, h2, h3 {
+	font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+
